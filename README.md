@@ -1,6 +1,7 @@
 # Tracker-de-Financias
 
 Finance Tracker 🧾💰
+<img width="1000" height="621" alt="Captura de tela 2025-12-01 154033" src="https://github.com/user-attachments/assets/19bb1738-c41a-4044-bcae-de19d18b508a" />
 
 Um aplicativo desktop criado em Python, utilizando CustomTkinter, para gerenciar entradas, despesas e visualizar o balanço financeiro em gráficos.
 
